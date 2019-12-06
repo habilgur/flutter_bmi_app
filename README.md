@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+       /// primarySwatch: İçerisinde primaryColoru barındırır. Swatch tüm renkelrin tonlarını tutar. Colors.pink[500]  vb..
+        /// Hex değeri olan #090E21 => # değerini 0xff ile değiştirilir. 0xFF Opaklığı belirtir.
